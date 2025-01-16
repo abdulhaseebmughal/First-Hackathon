@@ -1094,7 +1094,7 @@ text-decoration: underline;
 
 
 }
-@media screen and (max-width: 780px) {
+@media screen and (max-width: 780 px) {
   html,
   body {
     width: 100%;
